@@ -1,0 +1,18 @@
+.btn {
+	background-color: #999;
+	border-radius: 5px;
+	padding: 5px;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: #aaa;
+}
+
+table, th, td {
+	border: 1px solid #999999;
+}
+
+td {
+	padding: 8px;
+}
